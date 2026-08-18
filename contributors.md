@@ -10,3 +10,4 @@ Format:
 ## List of Contributors
 
 <!-- Add your entry below this line -->
+- Kaushik Raaghav B(https://github.com/kaushikrgv)
