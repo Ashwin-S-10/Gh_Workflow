@@ -11,3 +11,5 @@ Format:
 
 <!-- Add your entry below this line -->
 - Kaushik Raaghav B(https://github.com/kaushikrgv)
+
+Riyashika N( https://github.com/riyashikanedunchezhian-lgtm )
