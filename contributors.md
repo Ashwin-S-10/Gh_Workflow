@@ -12,3 +12,4 @@ Format:
 <!-- Add your entry below this line -->
 
 Riyashika N( https://github.com/riyashikanedunchezhian-lgtm )
+MrMaran (https://github.com/Mramaran)
