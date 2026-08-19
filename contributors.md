@@ -10,11 +10,11 @@ Format:
 ## List of Contributors
 
 <!-- Add your entry below this line -->
-- Riyashika N( https://github.com/riyashikanedunchezhian-lgtm )
-- Kaushik Raaghav B(https://github.com/kaushikrgv)
-- Adhwaith S S (https://github.com/Adhwaith139)
-- Samruthi Vijayakumar (https://github.com/samruthivijay29)
-- Sumyugtha M (https://github.com/Sumyugtha)
-- Ashraf S (https://github.com/AshrafUbaid23)
-- Dhanusree GK(https://github.com/dhanusreegk)
-- Mokshitha S (https://github.com/mokshi821007-ram)
+- [Riyashika N]( https://github.com/riyashikanedunchezhian-lgtm )
+- [Kaushik Raaghav B](https://github.com/kaushikrgv)
+- [Adhwaith S S](https://github.com/Adhwaith139)
+- [Samruthi Vijayakumar](https://github.com/samruthivijay29)
+- [Sumyugtha M](https://github.com/Sumyugtha)
+- [Ashraf S](https://github.com/AshrafUbaid23)
+- [Dhanusree GK](https://github.com/dhanusreegk)
+- [Mokshitha S](https://github.com/mokshi821007-ram)
