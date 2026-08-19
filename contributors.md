@@ -10,3 +10,5 @@ Format:
 ## List of Contributors
 
 <!-- Add your entry below this line -->
+
+Adhwaith S S (https://github.com/settings/profile)
