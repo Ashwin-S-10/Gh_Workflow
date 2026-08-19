@@ -13,3 +13,4 @@ Format:
 - Kaushik Raaghav B(https://github.com/kaushikrgv)
 
 - Riyashika N( https://github.com/riyashikanedunchezhian-lgtm )
+-  Sumyugtha M (https://github.com/Sumyugtha)
