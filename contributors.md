@@ -11,4 +11,4 @@ Format:
 
 <!-- Add your entry below this line -->
 
-Adhwaith S S (https://github.com/settings/profile)
+Adhwaith S S (https://github.com/Adhwaith139)
