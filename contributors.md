@@ -10,6 +10,7 @@ Format:
 ## List of Contributors
 
 <!-- Add your entry below this line -->
-- Kaushik Raaghav B(https://github.com/kaushikrgv)
-
 - Riyashika N( https://github.com/riyashikanedunchezhian-lgtm )
+- Kaushik Raaghav B(https://github.com/kaushikrgv)
+- Adhwaith S S (https://github.com/Adhwaith139)
+
