@@ -1,4 +1,4 @@
-<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/ef3bff56-b4fb-4921-9c91-882d424d4e15" /># Contributors
+# Contributors
 
 Welcome! This file is where every learner adds their name as their first
 open-source contribution. Add your entry **at the bottom of the list**,
