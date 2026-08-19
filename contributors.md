@@ -14,3 +14,4 @@ Format:
 - Kaushik Raaghav B(https://github.com/kaushikrgv)
 - Adhwaith S S (https://github.com/Adhwaith139)
 - Samruthi Vijayakumar (https://github.com/samruthivijay29)
+- Sumyugtha M (https://github.com/Sumyugtha)
